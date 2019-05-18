@@ -2,7 +2,7 @@
 
 Let's your robot make a sound when bumping into things, Proof-of-Concept. Inspired by Michael Reeves' video on Youtube: [The Roomba That Screams When it Bumps Into Stuff](https://www.youtube.com/watch?v=mvz3LRK263E).
 
-# Howto
+## Howto
 
 First [root your vacuum](https://github.com/dgiese/dustcloud).
 
