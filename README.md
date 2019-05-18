@@ -33,7 +33,7 @@ chmod u+x logwatch.sh
 
 Then drive your robot into walls.
 
-## Interesting resources:
+## Resources
 
 * dgiese/dustcloud: [Issue #11 Test Application](https://github.com/dgiese/dustcloud/issues/11)
 * dgiese/dustcloud: [Interesting files](https://github.com/dgiese/dustcloud/blob/master/devices/xiaomi.vacuum/Interesting-files.md)
